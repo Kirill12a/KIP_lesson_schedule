@@ -1,2 +1,2 @@
 # KIP_lesson_schedule
-## stop!! 
+## после swiftui сюда !! 
